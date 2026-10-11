@@ -1,2 +1,2 @@
-# bmp_03_R
+# Bioinformatics Mentorship programmer
 Introduction to R
